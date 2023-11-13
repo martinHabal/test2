@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(29, 170, 65);
+  }
+  
+  header {
+    background-color: #5abfca;
+    /* padding: 20px; */
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  nav {
+    float: left;
+    width: 200px;
+    height: 600px;
+    border: 1px solid black;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  main {
+    width: 60%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: green;
+  }
+  
+  p {
+    font-size: 1em;
+  }
+  
+  footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    border: 5px dotted green;
+    float: left;
+    width: 100%;
+  }
+
+  section {
+    border: 1px solid black;
+    float: left;
+  }
+
+  ul li {
+    list-style-type: none;
+  }
