@@ -4,3 +4,6 @@ zde jsem udělal změnu
 
 
 neco jsem pridal
+
+
+provedl jsem edit na githubu
